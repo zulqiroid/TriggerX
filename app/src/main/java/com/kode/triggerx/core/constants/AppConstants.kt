@@ -1,6 +1,6 @@
 package com.kode.triggerx.core.constants
 
-object AppConstants {
+object AppConstants{
 
     const val DATABASE_NAME = "triggerx_db"
 
